@@ -16,7 +16,7 @@ Olá!<br>Sou o Luzivan Gois<br>Analista Sênior de Segurança de Aplicações<br
     #github-stats img {
       margin: 0 10px; /* Adicione espaçamento entre as imagens */
     }
-  </style>
+</style>
 
 # 📊 GitHub Stats:
 <div id="github-stats">
