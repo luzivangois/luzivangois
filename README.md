@@ -11,7 +11,7 @@ Olá!<br>Sou o Luzivan Gois<br>Analista Sênior de Segurança de Aplicações<br
 # 📊 GitHub Stats:
 <div id="github-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luzivangois&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
-    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=luzivangois&theme=blue-green&hide_border=false">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luzivangois&theme=blue-green&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzivangois&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </div>
 
