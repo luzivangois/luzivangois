@@ -1,12 +1,3 @@
-# 💫 Sobre Mim:
-Olá!<br>
-Sou o Luzivan Gois<br>
-Analista Sênior de Segurança de Aplicações<br>
-Graduado em Defesa Cibernética<br>
-Especializado em Cybersecurity e Arquitetura de Software<br>
-Com mais de 20 anos de experiência no setor de Tecnologia da Informação<br>
-Os últimos quatro anos dedicados ao campo da Segurança Cibernética
-
 # 💫 About Me:
 Hello!<br>
 I'm Luzivan Gois<br>
