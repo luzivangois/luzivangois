@@ -1,5 +1,20 @@
+# 💫 Sobre Mim:
+Olá!<br>
+Sou o Luzivan Gois<br>
+Analista Sênior de Segurança de Aplicações<br>
+Graduado em Defesa Cibernética<br>
+Especializado em Cybersecurity e Arquitetura de Software<br>
+Com mais de 20 anos de experiência no setor de Tecnologia da Informação<br>
+Os últimos quatro anos dedicados ao campo da Segurança Cibernética
+
 # 💫 About Me:
-Olá!<br>Sou o Luzivan Gois<br>Analista Sênior de Segurança de Aplicações<br>Graduado em Defesa Cibernética<br>Especializado em Cybersecurity e Arquitetura de Software<br>Com mais de 20 anos de experiência no setor de Tecnologia da Informação<br>Os últimos quatro anos dedicados ao campo da Segurança Cibernética
+Hello!<br>
+I'm Luzivan Gois<br>
+Senior Application Security Analyst<br>
+Graduate in Cyber Defense<br>
+Specialized in Cybersecurity and Software Architecture<br>
+With over 20 years of experience in the Information Technology sector<br>
+The last four years dedicated to the field of Cybersecurity<br>
 
 
 ## 🌐 Socials:
