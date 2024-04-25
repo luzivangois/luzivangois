@@ -12,7 +12,7 @@ Olá!<br>Sou o Luzivan Gois<br>Analista Sênior de Segurança de Aplicações<br
 ![](https://github-readme-stats.vercel.app/api?username=luzivangois&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luzivangois&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luzivangois&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>div
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
