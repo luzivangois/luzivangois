@@ -5,7 +5,7 @@ Senior Application Security Analyst<br>
 Graduate in Cyber Defense<br>
 Specialized in Cybersecurity and Software Architecture<br>
 With over 20 years of experience in the Information Technology sector<br>
-The last four years dedicated to the field of Cybersecurity<br>
+The last five years dedicated to the field of Cybersecurity<br>
 
 
 ## 🌐 Socials:
